@@ -6,6 +6,6 @@
 Efflo、Rebarについて損傷の程度によって、c~eのクラス分けを行っている。
 
 ## 実行手順
-[1]. まず、入力画像を訓練画像、検証画像、テスト画像に振り分けるため、train_test_split.ipynbを実行。
+[ ]. まず、入力画像を訓練画像、検証画像、テスト画像に振り分けるため、train_test_split.ipynbを実行。
 
-[1]. 訓練画像の水増しを行いたい場合、augmentaion.ipynbを実行する。
+[ ]. 訓練画像の水増しを行いたい場合、augmentaion.ipynbを実行する。
